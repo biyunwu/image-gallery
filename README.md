@@ -1,7 +1,7 @@
 ## Introduction
 This is an image gallery webpage powered by Bootstrap. `index.html` and `gallery.html` are landing page and content page respectively.
 
-##Preview
+## Preview
 * Landing page
 ![landing page](img/landing.jpg)
 * Content page
